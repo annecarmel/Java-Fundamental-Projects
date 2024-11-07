@@ -6,3 +6,6 @@ Project Titles:
 2. Plant a Tree
 3. Calculator
 4. Droid
+5. Calculator
+6. Car loan EMI Calculator
+7. Playlist
