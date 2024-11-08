@@ -9,3 +9,4 @@ Project Titles:
 5. Calculator
 6. Car loan EMI Calculator
 7. Playlist
+8. FizzBuzz
