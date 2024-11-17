@@ -13,3 +13,4 @@ Project Titles:
 9. Prime Directive
 10. DNA Sequencing
 11. Language Sequencing
+12. Bug Detective
