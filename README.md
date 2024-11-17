@@ -11,3 +11,5 @@ Project Titles:
 7. Playlist
 8. FizzBuzz
 9. Prime Directive
+10. DNA Sequencing
+11. Language Sequencing
